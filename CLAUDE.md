@@ -20,5 +20,5 @@ This project is for tracking and developing Artur's personal cycling training go
 - Since the stated goal is VO2max/Build, call out when recent training is all Z1/Z2 endurance and missing the 3–8min @106–120%FTP stimulus VO2max work actually needs.
 - Keep analysis concise and numbers-first; skip generic training-plan boilerplate unless asked to build one.
 
-## Not yet tracked here
-- No structured training plan or periodization is stored in this repo yet — treat any plan discussion as a starting point to capture here once agreed, not as settled fact.
+## Training plan
+See `PLAN.md` for the current VO2max build plan (FTP retest → dedicated intervals → progress tracking). Check its status checklist before proposing new plans, and update it as steps are completed.
