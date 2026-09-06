@@ -6,7 +6,7 @@ This project is for tracking and developing Artur's personal cycling training go
 - Weight: 86kg, based in Wrocław, Poland
 - Current stated focus: **Build — increase VO2max to get faster**
 - HR zones (max-HR based): Z1 <125, Z2 125–154, Z3 155–169, Z4 170–184, Z5 185+
-- Power zones: **FTP 122W** (retested 2026-09-06 via Zwift FTP Test [Standard], replacing the stale 231W). Zwift structured workouts run in ERG mode, so route terrain doesn't affect required power — trust this result. See `PLAN.md` for detail.
+- Power zones: **FTP 122W** (retested 2026-09-06 via Zwift FTP Test [Standard], replacing the stale 231W). Zwift structured workouts run in ERG mode, so route terrain doesn't affect required power — trust this result. See `README.md` for detail.
 - Training pattern: near-daily ~30km/80min outdoor commute rides (Wrocław), occasional long ride, periodic Zwift/indoor sessions, dog walks as active recovery
 
 ## Known data caveats
@@ -22,3 +22,6 @@ This project is for tracking and developing Artur's personal cycling training go
 
 ## Training plan
 See `README.md` for the current VO2max build plan (FTP retest → dedicated intervals → progress tracking). Check its status checklist before proposing new plans, and update it as steps are completed.
+
+## Custom Zwift workouts
+`zwift-workouts/` holds `.zwo` files built to match the plan's interval targets (power as %FTP, so they auto-scale as FTP is retested). Add new ones here rather than one-off scratch files when a session is created for repeated use.

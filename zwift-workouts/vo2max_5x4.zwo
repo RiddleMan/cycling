@@ -1,0 +1,17 @@
+<workout_file>
+    <author>Artur Ptaszek</author>
+    <name>VO2max 5x4</name>
+    <description>Build phase VO2max session: 5x4min @ 113% FTP (mid-range of 106-120% target), 4min recovery. Matches the training plan in README.md — targets 129-146W at FTP=122W, auto-scales to your current Zwift FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="VO2max"/>
+        <tag name="Intervals"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.5" PowerHigh="0.75"/>
+        <SteadyState Duration="60" Power="0.9"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <IntervalsT Repeat="5" OnDuration="240" OffDuration="240" OnPower="1.13" OffPower="0.6" Cadence="95" CadenceResting="85"/>
+        <Cooldown Duration="600" PowerLow="0.65" PowerHigh="0.4"/>
+    </workout>
+</workout_file>
