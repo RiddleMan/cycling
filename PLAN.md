@@ -2,27 +2,26 @@
 
 Proposed 2026-09-04, based on analysis of recent Strava activity (see conversation/memory for detail). Goal: increase VO2max (stated athlete focus), building on an already-consistent aerobic base.
 
-## 1. Retest FTP (do this first)
-Stored FTP (231W) is ~3 years old and no recent activity includes a valid maximal-effort test. Zone-based targets below are meaningless until this is refreshed.
-- 20-min all-out test on the trainer (real power meter, not outdoor estimated power)
-- FTP = 0.95 × avg power for the 20 min
-- Repeat every 4–6 weeks to track progress
+## 1. FTP baseline — DONE
+Retested 2026-09-06 (Zwift FTP Test [Standard]): **122W**. HR profile (174.8 avg / 186 max) confirms a genuine maximal effort; ERG mode means the hilly route didn't affect the result. Note this makes commute rides' Strava-estimated power (135–166W) read as above threshold despite an easy HR — confirms outdoor estimated power is inflated and stays unusable for zone work (see caveat below).
 
-## 2. Add dedicated VO2max sessions (1–2×/week)
+## 2. VO2max sessions (1–2×/week) — target 129–146W
 Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity stimulus.
-- 4–6 × 4min @ 106–120% FTP, 3–4min recovery between reps
+- 4–6 × 4min @ **129–146W** (106–120% of 122W FTP), 3–4min easy-spin recovery between reps
+- Suggested slots: 2×/week on non-consecutive days (e.g. Tue/Fri), fit around existing commute schedule
 - Keep daily commutes as pure endurance — don't convert them to intervals too (adds fatigue without the targeted stimulus)
+- **Not yet started** — zero VO2max sessions logged since the FTP test (2026-09-06)
 
 ## 3. Keep outdoor rides as recovery/base
 - Continue near-daily ~30km commutes as low-intensity volume
 - Pace/judge these by HR, not power — outdoor rides report Strava's estimated power (`has_device_watts: false`), not measured, so it's not reliable for zone compliance
 
-## 4. Track trend, not single rides
-- After 4–6 weeks of VO2max work, retest FTP
-- Compare 5-min/8-min best-power trends across real-power (trainer/Zwift) activities over time to check whether the intervals are working
+## 4. Retest and check in — target week of 2026-10-04
+- After ~4 weeks of VO2max work (roughly 6-8 sessions), retest FTP the same way (Zwift FTP Test [Standard], ERG mode)
+- Compare 5-min/8-min best-power trends across real-power (trainer/Zwift) activities over that period to check whether the intervals are working before the retest confirms it
 - Avoid judging fitness off any single ride
 
 ## Status
-- [ ] FTP retest
-- [ ] VO2max intervals started
-- [ ] First 4–6 week check-in / retest
+- [x] FTP baseline confirmed — 122W (2026-09-06)
+- [ ] VO2max intervals started (0 sessions so far)
+- [ ] 4-week retest — target week of 2026-10-04
