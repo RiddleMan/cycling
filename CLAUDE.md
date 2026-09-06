@@ -21,4 +21,4 @@ This project is for tracking and developing Artur's personal cycling training go
 - Keep analysis concise and numbers-first; skip generic training-plan boilerplate unless asked to build one.
 
 ## Training plan
-See `PLAN.md` for the current VO2max build plan (FTP retest → dedicated intervals → progress tracking). Check its status checklist before proposing new plans, and update it as steps are completed.
+See `README.md` for the current VO2max build plan (FTP retest → dedicated intervals → progress tracking). Check its status checklist before proposing new plans, and update it as steps are completed.

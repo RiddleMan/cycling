@@ -1,6 +1,10 @@
+# Cycling
+
+Personal repo for tracking and developing Artur's cycling training goals using Strava data. Claude Code (via the `strava` MCP server) analyzes activities, HR/power trends, and training load here to support the plan below. See `CLAUDE.md` for the athlete profile, data caveats, and how Claude should help in this repo.
+
 # Training Plan — VO2max Build
 
-Proposed 2026-09-04, based on analysis of recent Strava activity (see conversation/memory for detail). Goal: increase VO2max (stated athlete focus), building on an already-consistent aerobic base.
+Proposed 2026-09-04, based on analysis of recent Strava activity. Goal: increase VO2max (stated athlete focus), building on an already-consistent aerobic base.
 
 ## 1. FTP baseline — DONE
 Retested 2026-09-06 (Zwift FTP Test [Standard]): **122W**. HR profile (174.8 avg / 186 max) confirms a genuine maximal effort; ERG mode means the hilly route didn't affect the result. Note this makes commute rides' Strava-estimated power (135–166W) read as above threshold despite an easy HR — confirms outdoor estimated power is inflated and stays unusable for zone work (see caveat below).
