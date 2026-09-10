@@ -14,7 +14,11 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - 4–6 × 4min @ **129–146W** (106–120% of 122W FTP), 3–4min easy-spin recovery between reps
 - Suggested slots: 2×/week on non-consecutive days (e.g. Tue/Fri), fit around existing commute schedule
 - Keep daily commutes as pure endurance — don't convert them to intervals too (adds fatigue without the targeted stimulus)
-- **Not yet started** — zero VO2max sessions logged since the FTP test (2026-09-06)
+- **Session 1 done 2026-09-10** ("Zwift - VO2max 5x4"): 5×4min @ ~146W avg (120%FTP), ~4min @~75W recovery. HR during work bouts stayed Z2 (125–130 avg, 136 max) — never reached Z3+, suggesting 122W FTP was undershooting true threshold.
+
+## 2a. FTP auto-update — needs confirmation
+Right after session 1, an unstructured "ZG25 Climb Champs" KOM-chase ride (same day, on fatigued legs) produced 156.6W avg / 159W best-20min, and Zwift auto-raised FTP to **152W**. HR stayed low here too (135 avg / 163 max, still Z2–low Z3), which is consistent with 122W having been an underestimate — but a +25% jump in 4 days from an unstructured, post-fatigue ride isn't a clean read.
+- **Action before trusting 152W for zone work**: do one dedicated fresh-legs FTP test (Zwift FTP Test [Standard], ERG mode) to confirm. Until then, treat 152W as provisional.
 
 ## 3. Keep outdoor rides as recovery/base
 - Continue near-daily ~30km commutes as low-intensity volume
@@ -27,5 +31,6 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 
 ## Status
 - [x] FTP baseline confirmed — 122W (2026-09-06)
-- [ ] VO2max intervals started (0 sessions so far)
+- [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W)
+- [ ] FTP retest to confirm Zwift's auto-bump to 152W (2026-09-10, provisional — from unstructured post-fatigue ride)
 - [ ] 4-week retest — target week of 2026-10-04
