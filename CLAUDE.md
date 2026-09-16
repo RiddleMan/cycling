@@ -6,7 +6,7 @@ This project is for tracking and developing Artur's personal cycling training go
 - Weight: 86kg, based in Wrocław, Poland
 - Current stated focus: **Build — increase VO2max to get faster**
 - HR zones (max-HR based): Z1 <125, Z2 125–154, Z3 155–169, Z4 170–184, Z5 185+
-- Power zones: **FTP 195W confirmed (2026-09-16 Zwift FTP Test [Standard], 206W 20min best, measured warm-up).** Supersedes the earlier 122W test (2026-09-06 — invalidated by an overly hard pre-test warm-up causing pre-fatigue) and the provisional 152W Zwift auto-bump (2026-09-10, from an unstructured post-fatigue ride). Note Strava's `get_athlete_zones` may still report the stale 122W until the platform-side FTP setting is synced/updated. Zwift structured workouts run in ERG mode, so route terrain doesn't affect required power — trust ERG-mode test results. See `README.md` for detail.
+- Power zones: **FTP 195W confirmed (2026-09-16 Zwift FTP Test [Standard]).** Note Strava's `get_athlete_zones` may still report a stale value until the platform-side FTP setting is synced/updated. Zwift structured workouts run in ERG mode, so route terrain doesn't affect required power — trust ERG-mode test results. See `ftp-history.md` for the full history of test results and corrections, `README.md` for the active plan.
 - Training pattern: near-daily ~30km/80min outdoor commute rides (Wrocław), occasional long ride, periodic Zwift/indoor sessions, dog walks as active recovery
 
 ## Known data caveats
