@@ -14,6 +14,7 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - Suggested slots: 2×/week on non-consecutive days (e.g. Tue/Fri), fit around existing commute schedule
 - Keep daily commutes as pure endurance — don't convert them to intervals too (adds fatigue without the targeted stimulus)
 - **Session 1 done 2026-09-10** ("Zwift - VO2max 5x4"): 5×4min @ ~146W avg, ~4min @~75W recovery. HR during work bouts stayed Z2 (125–130 avg, 136 max) — never reached Z3+, an early sign the FTP used at the time was too low. Re-target future sessions to the current 207–234W range.
+- **Session 2 done 2026-09-18** ("Zwift - VO2max 5x4"), first session at the confirmed 195W FTP: 4 solid reps @ ~220W avg (113% FTP, in target), HR climbing 169→174 across reps (max 182, Z5); 1 soft rep @ ~171W (88% FTP, below target — likely a ramp-in). Real stimulus this time — a big step up from session 1.
 
 ## 2. Keep outdoor rides as recovery/base
 - Continue near-daily ~30km commutes as low-intensity volume
