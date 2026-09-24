@@ -41,19 +41,21 @@ Started 2026-09-24. Equipment: pull-up bar, tension (resistance) bands. Goal: ge
 - Upper-body/core only for now — legs stay dedicated to cycling load (VO2max intervals + commutes)
 - Progress reps before adding band resistance; not tracked against the FTP retest
 
+Rest 60–90s between sets (30–45s is fine between paired exercises in a superset, e.g. pull-ups → knee raises).
+
 ## Routine
 
 **Pull (bar)**
-- Pull-ups or band-assisted pull-ups (loop band over bar, foot/knee in loop) — 3 sets × 5–8 reps
-- Hanging knee raises — 3 sets × 10–15 reps
+- Pull-ups or band-assisted pull-ups (loop band over bar, foot/knee in loop) — 3 sets × 5–8 reps. [NASM guide](https://www.nasm.org/resource-center/exercise-library/band-assisted-pull-up), [Gymreapers guide](https://www.gymreapers.com/blogs/news/banded-pull-ups)
+- Hanging knee raises — 3 sets × 10–15 reps. [Healthline](https://www.healthline.com/health/fitness/hanging-knee-raises), [YouTube tutorial](https://www.youtube.com/watch?v=G6a5267YpHM)
 
 **Push (bands)**
-- Band chest press (anchor behind you, shoulder height) — 3 sets × 12–15 reps
-- Push-ups — 3 sets × 10–15 reps
+- Band chest press (anchor behind you, shoulder height) — 3 sets × 12–15 reps. [WorkoutLabs guide](https://workoutlabs.com/exercise-guide/resistance-band-chest-press/)
+- Push-ups — 3 sets × 10–15 reps. [NASM guide](https://blog.nasm.org/nasm-guide-to-push-ups/form-and-technique), [Nerd Fitness](https://www.nerdfitness.com/blog/proper-push-up/)
 
 **Core/back**
-- Band rows (anchor at chest height) — 3 sets × 12–15 reps
-- Plank — 3 sets × 30–45s
+- Band rows (anchor at chest height) — 3 sets × 12–15 reps. [GetHealthyU guide](https://gethealthyu.com/resistance-band-row/)
+- Plank — 3 sets × 30–45s. [Greatist guide](https://greatist.com/fitness/perfect-plank)
 
 ## Log
 - **Session 1 — 2026-09-24**: started routine as above.
