@@ -32,3 +32,28 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W), session 2 done 2026-09-18 (4/5 reps in target), session 3 done 2026-09-22 (5/5 reps in target, first clean session)
 - [ ] Confirm Zwift/Strava platform FTP setting reflects 195W
 - [ ] 4-week retest — target Sunday 2026-10-11
+
+# Calisthenics — Parallel Track
+
+Started 2026-09-24. Equipment: pull-up bar, tension (resistance) bands. Goal: general upper-body/core strength alongside cycling, without interfering with VO2max leg intervals.
+
+- 2×/week, on non-VO2max days, 15–20min
+- Upper-body/core only for now — legs stay dedicated to cycling load (VO2max intervals + commutes)
+- Progress reps before adding band resistance; not tracked against the FTP retest
+
+## Routine
+
+**Pull (bar)**
+- Pull-ups or band-assisted pull-ups (loop band over bar, foot/knee in loop) — 3 sets × 5–8 reps
+- Hanging knee raises — 3 sets × 10–15 reps
+
+**Push (bands)**
+- Band chest press (anchor behind you, shoulder height) — 3 sets × 12–15 reps
+- Push-ups — 3 sets × 10–15 reps
+
+**Core/back**
+- Band rows (anchor at chest height) — 3 sets × 12–15 reps
+- Plank — 3 sets × 30–45s
+
+## Log
+- **Session 1 — 2026-09-24**: started routine as above.
