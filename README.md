@@ -16,6 +16,7 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - **Session 1 done 2026-09-10** ("Zwift - VO2max 5x4"): 5×4min @ ~146W avg, ~4min @~75W recovery. HR during work bouts stayed Z2 (125–130 avg, 136 max) — never reached Z3+, an early sign the FTP used at the time was too low. Re-target future sessions to the current 207–234W range.
 - **Session 2 done 2026-09-18** ("Zwift - VO2max 5x4"), first session at the confirmed 195W FTP: 4 solid reps @ ~220W avg (113% FTP, in target), HR climbing 169→174 across reps (max 182, Z5); 1 soft rep @ ~171W (88% FTP, below target — likely a ramp-in). Real stimulus this time — a big step up from session 1.
 - **Session 3 done 2026-09-22** ("Zwift - VO2max 5x4"): all 5 reps landed in target — 220/220/217/220/213W avg (109–113% FTP), first fully clean session (no soft/ramp-in rep). HR climbed rep-over-rep (max 169→172→177→178→177), topping out in upper Z4 without quite reaching Z5 — plausible given ~30km commute the day before (2026-09-20) plus a hike (2026-09-19) still in the legs. Best session yet; consistency is now the thing to hold, not the power target.
+- **Session 4 done 2026-09-25** ("Zwift - VO2max 5x4"): all 5 reps in target and tightest range yet — 219/219/220/220/219W avg (112–113% FTP, ~1W spread rep-to-rep). Notably, HR was lower than session 3 at essentially the same power: rep max HR 164→169→173→174→175 (vs 169→172→177→178→177 in session 3), and whole-ride avg HR 146 vs 150 on near-identical avg watts (147 both). Done the evening after weight training (2026-09-24), so this reads as a real efficiency gain, not just fresher legs.
 
 ## 2. Keep outdoor rides as recovery/base
 - Continue near-daily ~30km commutes as low-intensity volume
@@ -29,7 +30,7 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 
 ## Status
 - [x] FTP confirmed — 195W (2026-09-16, see `ftp-history.md`)
-- [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W), session 2 done 2026-09-18 (4/5 reps in target), session 3 done 2026-09-22 (5/5 reps in target, first clean session)
+- [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W), session 2 done 2026-09-18 (4/5 reps in target), session 3 done 2026-09-22 (5/5 reps in target, first clean session), session 4 done 2026-09-25 (5/5 in target, tightest power spread yet, lower HR than session 3 at same power)
 - [ ] Confirm Zwift/Strava platform FTP setting reflects 195W
 - [ ] 4-week retest — target Sunday 2026-10-11
 
@@ -51,7 +52,7 @@ Rest 60–90s between sets (30–45s is fine between paired exercises in a super
 
 **Push (bands)**
 - Band chest press (anchor behind you, shoulder height) — 3 sets × 12–15 reps. [WorkoutLabs guide](https://workoutlabs.com/exercise-guide/resistance-band-chest-press/)
-- Push-ups — 3 sets × 10–15 reps. [NASM guide](https://blog.nasm.org/nasm-guide-to-push-ups/form-and-technique), [Nerd Fitness](https://www.nerdfitness.com/blog/proper-push-up/)
+- Incline or knee push-ups (regression until full push-ups reach 10–15 reps) — 3 sets × as many reps as possible with good form. [NASM guide](https://blog.nasm.org/nasm-guide-to-push-ups/form-and-technique), [Nerd Fitness progression plan](https://www.nerdfitness.com/blog/push-up-progression-plan/)
 
 **Core/back**
 - Band rows (anchor at chest height) — 3 sets × 12–15 reps. [GetHealthyU guide](https://gethealthyu.com/resistance-band-row/)
