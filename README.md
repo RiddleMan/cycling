@@ -60,3 +60,4 @@ Rest 60–90s between sets (30–45s is fine between paired exercises in a super
 
 ## Log
 - **Session 1 — 2026-09-24**: started routine as above.
+- **Session 2 — 2026-09-28**: pull-ups dropped off after set 1 (5 reps → 3 reps by last set); hands slipping off the bar on hanging knee raises (grip fatigued from pull-ups first). Overall felt harder than session 1. Next session: try knee raises before pull-ups in the superset, or use straps on pull-ups to save grip for the raises.
