@@ -18,6 +18,8 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - **Session 3 done 2026-09-22** ("Zwift - VO2max 5x4"): all 5 reps landed in target — 220/220/217/220/213W avg (109–113% FTP), first fully clean session (no soft/ramp-in rep). HR climbed rep-over-rep (max 169→172→177→178→177), topping out in upper Z4 without quite reaching Z5 — plausible given ~30km commute the day before (2026-09-20) plus a hike (2026-09-19) still in the legs. Best session yet; consistency is now the thing to hold, not the power target.
 - **Session 4 done 2026-09-25** ("Zwift - VO2max 5x4"): all 5 reps in target and tightest range yet — 219/219/220/220/219W avg (112–113% FTP, ~1W spread rep-to-rep). Notably, HR was lower than session 3 at essentially the same power: rep max HR 164→169→173→174→175 (vs 169→172→177→178→177 in session 3), and whole-ride avg HR 146 vs 150 on near-identical avg watts (147 both). Done the evening after weight training (2026-09-24), so this reads as a real efficiency gain, not just fresher legs.
 - **Session 5 attempted 2026-10-06** ("Zwift - VO2max 5x4"): reps 1–3 clean and in target (220/219/218W avg, 112–113% FTP, HR climbing 169→172→174), but rep 4 cut short at 2:18 @ 202W (below target) and abandoned mid-interval (stopped pedaling, HR still 174–177) — reps 4–5 not completed. Came one day after the Oct 5 Sugar Cookie ride with no rest day between, on top of a heavy Oct 1–2 mountain-hiking weekend; reads as accumulated fatigue, not a fitness drop (reps 1–3 matched session 3/4 numbers).
+- **Session 6 done 2026-10-09** ("Zwift - VO2max 5x4 + widzisz tę górę :0"): all 5 reps in target — 219/220/221/220/220W (112–113% FTP), rep avg HR 164→170→172→171→169 (max 174→182). Clean bounce-back 3 days after the abandoned session 5. Rode on ~67min after the workout, including Radio Tower Climb ~10min @ 203W (104% FTP, HR 170) — 10-min best 206W / 8-min best 207W on already-tired legs, an encouraging sign for the retest. Note: Oct 5–9 was 5 Zwift days in a row with no rest, incl. Oct 7 Coast Crusher (90min, avg HR 158 = Z3, relative effort 169 — not an easy day).
+- **Session 7 done 2026-10-14** ("Zwift - VO2max 5x4"), first ride back from the Oct 9–13 trip: all 5 reps in target — 220/221/219/219/220W, but HR higher than session 6 at the same power: rep avg HR 167→171→173→174→177 (max 176→186, Z5 on rep 5), cadence sagging to 77 in the last recovery. Likely travel + the Oct 12 run (5.8km, first in a while) rather than lost fitness; power was held, so it counts as clean.
 
 ## 2. Keep outdoor rides as recovery/base
 - Continue near-daily ~30km commutes as low-intensity volume
@@ -32,10 +34,11 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 
 ## Status
 - [x] FTP confirmed — 195W (2026-09-16, see `ftp-history.md`)
-- [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W), session 2 done 2026-09-18 (4/5 reps in target), session 3 done 2026-09-22 (5/5 reps in target, first clean session), session 4 done 2026-09-25 (5/5 in target, tightest power spread yet, lower HR than session 3 at same power), session 5 attempted 2026-10-06 (3/5 reps in target, abandoned on rep 4 — fatigue from travel/hiking load, not refit yet)
+- [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W), session 2 done 2026-09-18 (4/5 reps in target), session 3 done 2026-09-22 (5/5 reps in target, first clean session), session 4 done 2026-09-25 (5/5 in target, tightest power spread yet, lower HR than session 3 at same power), session 5 attempted 2026-10-06 (3/5 reps in target, abandoned on rep 4 — fatigue from travel/hiking load), session 6 done 2026-10-09 (5/5 in target), session 7 done 2026-10-14 (5/5 in target, HR elevated post-travel)
 - [ ] Confirm Zwift/Strava platform FTP setting reflects 195W
 - [ ] 4-5 week retest — target Sunday 2026-10-18 (moved from 2026-10-11 due to travel 2026-10-09–13)
-- [ ] 2–3 more clean VO2max sessions before the retest (currently at 4 clean + 1 partial)
+- [x] 2–3 more clean VO2max sessions before the retest — sessions 6 (2026-10-09) and 7 (2026-10-14) both 5/5 in target
+- [ ] Easy/rest days 2026-10-15–17 before the Sunday retest (no intervals, no Z3 free rides, no runs; HR <145 if riding)
 
 # Calisthenics — Parallel Track
 
