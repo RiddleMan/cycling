@@ -6,11 +6,12 @@ Personal repo for tracking and developing Artur's cycling training goals using S
 
 Proposed 2026-09-04, based on analysis of recent Strava activity. Goal: increase VO2max (stated athlete focus), building on an already-consistent aerobic base.
 
-**Current FTP: 195W** (confirmed 2026-09-16). See `ftp-history.md` for the full history of test results and corrections.
+**Current FTP: 215W** (confirmed 2026-10-18 retest, up from 195W on 2026-09-16). See `ftp-history.md` for the full history of test results and corrections.
 
-## 1. VO2max sessions (1–2×/week) — target 207–234W
+## 1. VO2max sessions (1–2×/week) — target 228–258W (at 215W FTP)
 Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity stimulus.
-- 4–6 × 4min @ **207–234W** (106–120% of 195W FTP), 3–4min easy-spin recovery between reps
+- 4–6 × 4min @ **228–258W** (106–120% of 215W FTP), 3–4min easy-spin recovery between reps. Sessions 1–7 below were done at the old 195W FTP (207–234W target).
+- `vo2max_5x4.zwo` (113%) auto-scales to **~243W** at 215W — +23W over the ~220W reps so far. If the first session at the new FTP is a struggle, drop to ~108% (~232W) and build back up.
 - Suggested slots: 2×/week on non-consecutive days (e.g. Tue/Fri), fit around existing commute schedule
 - Keep daily commutes as pure endurance — don't convert them to intervals too (adds fatigue without the targeted stimulus)
 - **Session 1 done 2026-09-10** ("Zwift - VO2max 5x4"): 5×4min @ ~146W avg, ~4min @~75W recovery. HR during work bouts stayed Z2 (125–130 avg, 136 max) — never reached Z3+, an early sign the FTP used at the time was too low. Re-target future sessions to the current 207–234W range.
@@ -25,20 +26,23 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - Continue near-daily ~30km commutes as low-intensity volume
 - Pace/judge these by HR, not power — outdoor rides report Strava's estimated power (`has_device_watts: false`), not measured, so it's not reliable for zone compliance
 
-## 3. Retest and check in — target Sunday 2026-10-18
+## 3. Retest and check in — done 2026-10-18 → 215W
 - After ~4-5 weeks of VO2max work (roughly 6-8 sessions) at the current 195W FTP, retest the same way (Zwift FTP Test [Standard], ERG mode, with a measured warm-up — no hard spikes beforehand)
 - **Moved from 2026-10-11 to 2026-10-18** — pushed back a week because Artur is traveling 2026-10-09 through 2026-10-13 (back Wednesday 2026-10-14), which would have landed the original date mid-trip with no trainer access
 - Set on a Sunday to avoid commute fatigue beforehand
 - Compare 5-min/8-min best-power trends across real-power (trainer/Zwift) activities over that period to check whether the intervals are working before the retest confirms it
 - Avoid judging fitness off any single ride
+- **Result 2026-10-18**: Zwift FTP Test [Standard] 20-min avg 226W → **FTP 215W (+20W, +10%)**, 2.53 W/kg. Block HR 176 avg / 187 max vs 173 / 185 at the Sep 16 test — same effort, more power. Strong finish (300–500W kick) suggests a little reserve. Full detail in `ftp-history.md`.
 
 ## Status
 - [x] FTP confirmed — 195W (2026-09-16, see `ftp-history.md`)
 - [x] VO2max intervals started — session 1 done 2026-09-10 (5×4min @ ~146W), session 2 done 2026-09-18 (4/5 reps in target), session 3 done 2026-09-22 (5/5 reps in target, first clean session), session 4 done 2026-09-25 (5/5 in target, tightest power spread yet, lower HR than session 3 at same power), session 5 attempted 2026-10-06 (3/5 reps in target, abandoned on rep 4 — fatigue from travel/hiking load), session 6 done 2026-10-09 (5/5 in target), session 7 done 2026-10-14 (5/5 in target, HR elevated post-travel)
-- [ ] Confirm Zwift/Strava platform FTP setting reflects 195W
-- [ ] 4-5 week retest — target Sunday 2026-10-18 (moved from 2026-10-11 due to travel 2026-10-09–13)
+- [x] Confirm Zwift/Strava platform FTP setting reflects 195W — Strava zones on 195W by 2026-10-18
+- [ ] Confirm Zwift/Strava platform FTP setting reflects 215W
+- [x] 4-5 week retest — done 2026-10-18: FTP 195W → 215W
 - [x] 2–3 more clean VO2max sessions before the retest — sessions 6 (2026-10-09) and 7 (2026-10-14) both 5/5 in target
-- [ ] Easy/rest days 2026-10-15–17 before the Sunday retest (no intervals, no Z3 free rides, no runs; HR <145 if riding)
+- [x] Easy/rest days 2026-10-15–17 before the Sunday retest — easy spin Oct 15 (HR max 140), Magnificent 8 Oct 16 (avg 134, briefly up to 159), walk Oct 17
+- [ ] Next block: VO2max 5×4 at the new 215W FTP (~243W reps); next retest ~4–5 weeks out (~mid/late Nov 2026)
 
 # Calisthenics — Parallel Track
 
