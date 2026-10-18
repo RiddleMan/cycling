@@ -6,7 +6,7 @@ Personal repo for tracking and developing Artur's cycling training goals using S
 
 Proposed 2026-09-04, based on analysis of recent Strava activity. Goal: increase VO2max (stated athlete focus), building on an already-consistent aerobic base.
 
-**Current FTP: 215W** (confirmed 2026-10-18 retest, up from 195W on 2026-09-16). See `ftp-history.md` for the full history of test results and corrections.
+**Current FTP: 215W** (confirmed 2026-10-18 retest, up from 195W on 2026-09-16). See `ftp-history.md` for the full history of test results and corrections. Chart: [FTP History dashboard](https://claude.ai/artifact/CZbctFC1Mm4r6tMicgarGQ) (static data copy — add a row after each retest).
 
 ## 1. VO2max sessions (1–2×/week) — target 228–258W (at 215W FTP)
 Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity stimulus.
@@ -32,7 +32,7 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - Set on a Sunday to avoid commute fatigue beforehand
 - Compare 5-min/8-min best-power trends across real-power (trainer/Zwift) activities over that period to check whether the intervals are working before the retest confirms it
 - Avoid judging fitness off any single ride
-- **Result 2026-10-18**: Zwift FTP Test [Standard] 20-min avg 226W → **FTP 215W (+20W, +10%)**, 2.53 W/kg. Block HR 176 avg / 187 max vs 173 / 185 at the Sep 16 test — same effort, more power. Strong finish (300–500W kick) suggests a little reserve. Full detail in `ftp-history.md`.
+- **Result 2026-10-18**: Zwift FTP Test [Standard] 20-min avg 226W → **FTP 215W (+20W, +10%)**, 2.59 W/kg at 83kg. Block HR 176 avg / 187 max vs 173 / 185 at the Sep 16 test — same effort, more power. Strong finish (300–500W kick) suggests a little reserve. Full detail in `ftp-history.md`.
 
 ## Status
 - [x] FTP confirmed — 195W (2026-09-16, see `ftp-history.md`)

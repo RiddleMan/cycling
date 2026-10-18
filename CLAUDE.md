@@ -3,7 +3,7 @@
 This project is for tracking and developing Artur's personal cycling training goals using Strava data (via the `strava` MCP server).
 
 ## Athlete profile
-- Weight: 85kg (2026-09-22), based in Wrocław, Poland
+- Weight: 83kg (2026-10-11; was 85kg on 2026-09-22), based in Wrocław, Poland
 - Current stated focus: **Build — increase VO2max to get faster**
 - HR zones (max-HR based): Z1 <125, Z2 125–154, Z3 155–169, Z4 170–184, Z5 185+
 - Power zones: **FTP 215W confirmed (2026-10-18 Zwift FTP Test [Standard]; was 195W from 2026-09-16).** Note Strava's `get_athlete_zones` may still report a stale value until the platform-side FTP setting is synced/updated. Zwift structured workouts run in ERG mode, so route terrain doesn't affect required power — trust ERG-mode test results. See `ftp-history.md` for the full history of test results and corrections, `README.md` for the active plan.
