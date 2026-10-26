@@ -42,7 +42,8 @@ Current training is all Z1/Z2 commuting — good volume, but no VO2max-intensity
 - [x] 4-5 week retest — done 2026-10-18: FTP 195W → 215W
 - [x] 2–3 more clean VO2max sessions before the retest — sessions 6 (2026-10-09) and 7 (2026-10-14) both 5/5 in target
 - [x] Easy/rest days 2026-10-15–17 before the Sunday retest — easy spin Oct 15 (HR max 140), Magnificent 8 Oct 16 (avg 134, briefly up to 159), walk Oct 17
-- [ ] Next block: VO2max 5×4 at the new 215W FTP (~243W reps); next retest ~4–5 weeks out (~mid/late Nov 2026)
+- [x] Unstructured "fun week" after the retest, 2026-10-19–25 — 6 Zwift rides over 5 days (~7.6h, ~220km), rest Oct 24–25. Front-loaded and sprint-heavy: Oct 19 avg HR 157 (Z3) with 5-min best 234W, Oct 20 avg HR 148, Oct 23 sprints up to 1-min 397W. Oct 22 was the cleanest Z2 (133W, HR 127). Fatigue showed on Oct 23: the same 133W cost HR 149, vs 127 the day before.
+- [ ] Next block (started 2026-10-26): VO2max 5×4 at the new 215W FTP (~243W reps); next retest ~4–5 weeks out (~mid/late Nov 2026). Oct 26 was a Z2 opener (Climber's Gambit, 93min @ 139W / 65% FTP, HR 137 avg / 150 max).
 
 # Calisthenics — Parallel Track
 
