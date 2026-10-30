@@ -12,6 +12,7 @@ This project is for tracking and developing Artur's personal cycling training go
 ## Known data caveats
 - **Outdoor rides have `has_device_watts: false`** — their power numbers are Strava's speed/weight-based estimate, not measured. Don't use them to judge FTP or power-zone compliance.
 - **Only trainer/Zwift rides carry real power** (`has_device_watts: true`). Any FTP or power-zone analysis must be anchored to these, not outdoor estimates.
+- **Calisthenics shows up in Strava as `WeightTraining` ("Weight Training" / Functional Strength)** — treat every such activity as a calisthenics session and log it in the README's Calisthenics log. Strava records no exercise breakdown for them (only duration/HR).
 - **ERG-mode structured Zwift workouts (e.g. the FTP Test) are not affected by route terrain** — the trainer locks resistance to the workout's target power regardless of gradient. Don't assume hills invalidate a result from one of these; that only applies to free-ride (non-ERG) sessions.
 
 ## How to help
