@@ -81,6 +81,6 @@ Rest 60–90s between sets (30–45s is fine between paired exercises in a super
 - **Session 5 — 2026-10-26**: 26min, HR 107 avg / 135 max. Done after the Climber's Gambit Z2 ride, the evening before VO2max session 8.
 - **Session 6 — 2026-10-29**: 26min, HR 122 avg / 148 max (highest so far). Done right after ~106min of Z2 on Zwift (HR still elevated), the evening before VO2max session 9.
 - **Session 7 — 2026-11-02**: 35min (longest since session 1), HR 107 avg / 138 max. Done the evening before VO2max session 10, which went 5/5, so no sign it hurt the next day's intervals.
-- **Progress — 2026-11-05**: 10 full push-ups (graduated from incline/knee push-ups). Pull-ups moved to a lighter assist band.
+- **Session 8 — 2026-11-05**: 41min (longest so far), HR 114 avg / 143 max. Done right after ~75min of Z2 on Zwift. Progress: 10 full push-ups (graduated from incline/knee push-ups), and pull-ups moved to a lighter assist band.
 
-Frequency so far: 7 sessions in ~6 weeks (~1.2×/week vs the 2×/week target). There was a 2-week gap (Sep 29–Oct 11) over the hiking weekend and trip; it's been weekly since, and 2× in the week of Oct 26. Strava logs these as "Weight Training" (Functional Strength) with no exercise/rep breakdown, so add rep counts here manually if you want to track progression.
+Frequency so far: 8 sessions in 6 weeks (~1.3×/week vs the 2×/week target). There was a 2-week gap (Sep 29–Oct 11) over the hiking weekend and trip; it's been weekly since, and 2× in each of the weeks of Oct 26 and Nov 2. Strava logs these as "Weight Training" (Functional Strength) with no exercise/rep breakdown, so add rep counts here manually if you want to track progression.
