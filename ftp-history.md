@@ -21,7 +21,7 @@ Zwift FTP Test [Standard], ERG mode, after ~4.5 weeks / 7 VO2max 5×4 sessions a
 - Pacing: strong start (~235–240W first minutes), settled ~225W, two short sags mid/late (~195–205W, then ~185W for ~1min each), then 235–245W finish plus a 300–500W final kick — some reserve left, so 215W is if anything slightly conservative.
 - Taper: Oct 15 easy spin (HR max 140), Oct 16 Magnificent 8 (avg HR 134, max 159), Oct 17 long walk — no intervals.
 - Other bests from the test: 5min 232W, 8min 229W, 10min 227W.
-- **Open item**: Strava zones still on 195W as of this analysis — confirm the platform-side FTP updates to 215W.
+- Platform sync: Strava's `get_athlete_zones` reported `ftp: 215` by 2026-11-06, and Zwift ERG targets matched 215W in VO2max session 11 (109% → 234W).
 
 ## Equipment changes affecting comparisons
 - **2026-11-04 — new chain, hot-waxed** (old chain worn/uncleaned). Trainer power is measured after the drivetrain, so lower friction likely shows a few more watts (~3–8W estimated, 1.5–4%) for the same leg effort. Part of any gain at the next retest may be drivetrain, not fitness — cross-check with HR at fixed power (Z2 ~139W @ HR ~137; VO2max reps ~230W @ HR ~170–174).
